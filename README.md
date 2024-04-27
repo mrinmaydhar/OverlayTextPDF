@@ -28,4 +28,4 @@ The project uses the following namespaces:
 
 To use this application, simply run the `Program.cs` file in your .NET environment. Make sure to update the `directoryPath` variable in the `Main` method to the directory containing the PDF files you want to modify.
 
-## Auto-generated README
+_This is an auto-generated README_
