@@ -28,4 +28,8 @@ The project uses the following namespaces:
 
 To use this application, simply run the `Program.cs` file in your .NET environment. Make sure to update the `directoryPath` variable in the `Main` method to the directory containing the PDF files you want to modify.
 
+Remember to install iText as well  
+`dotnet add package itext.bouncy-castle-adapter --version 8.0.3`  
+`dotnet add package itext --version 8.0.3`
+
 _This is an auto-generated README_
