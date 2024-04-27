@@ -10,7 +10,7 @@ namespace ConsoleApp1
     {
         public static void Main()
         {
-            string directoryPath = @"C:\Users\mrinm\Downloads\New folder\scratch";
+            string directoryPath = @"..\scratch";
 
             // Get all PDF files in the directory
             string[] pdfFiles = Directory.GetFiles(directoryPath, "*.pdf");
