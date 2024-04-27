@@ -57,7 +57,7 @@ namespace ConsoleApp1
                 PdfCanvas pdfCanvas = new(page);
 
                 // Define the text and font size
-                string text = "For ICICI Lombard use only";
+                string text = "sample text";
                 float fontSize = 36;
 
                 // Estimate the width and height of the text box
