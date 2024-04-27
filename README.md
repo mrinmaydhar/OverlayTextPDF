@@ -11,6 +11,7 @@ The project uses the following namespaces:
 - `iText.Kernel.Pdf`
 - `iText.Kernel.Pdf.Canvas`
 - `iText.Kernel.Pdf.Extgstate`
+- `iText.Kernel.Geom`
 
 ## How it works
 
